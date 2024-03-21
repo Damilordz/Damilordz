@@ -1,6 +1,6 @@
 # Welcome to Damilola's GitHub Page!
 
-![Profile Image](personal.png)
+![Profile Image](personal.jpeg)
 <!--<img src="profile_image.png" alt="Profile Image" width="200" height="200">-->
 
 
