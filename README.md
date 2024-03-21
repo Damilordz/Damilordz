@@ -32,7 +32,7 @@ I hold an MSc in Mechatronics with a focus on control systems. My dissertation e
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/adebowaleemmanuel) and [Twitter](https://twitter.com/damilordz). Let's collaborate and build amazing things together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adebowaleemmanuel) and [Twitter](https://twitter.com/damilordz). Let's collaborate and build amazing things together!
 
 Happy coding! 😊
 
