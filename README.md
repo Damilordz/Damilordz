@@ -1,7 +1,7 @@
 # Welcome to Damilola's GitHub Page!
 
-![Profile Image](personal.jpeg)
-<!--<img src="profile_image.png" alt="Profile Image" width="200" height="200">-->
+<!--![Profile Image](personal.jpeg)-->
+<!--<img src="personal.jpeg" alt="Profile Image" width="200" height="200">-->
 
 
 Hey there! 👋 I'm Adebowale Damilola Emmanuel, a passionate web developer. Welcome to my GitHub profile!
