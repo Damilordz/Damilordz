@@ -4,7 +4,7 @@
 <!--<img src="personal.jpeg" alt="Profile Image" width="200" height="200">-->
 
 
-Hey there! 👋 I'm Adebowale Damilola Emmanuel, a passionate web developer. Welcome to my GitHub profile!
+Hey there! 👋 I'm Adebowale Damilola Emmanuel, a passionate web developer 👨‍💻. Welcome to my GitHub profile!
 
 ## About Me
 I hold an MSc in Mechatronics with a focus on control systems. My dissertation explored the speed control of a DC motor using fuzzy logic and PID controllers. After completing my master's degree, I decided to pursue my interest in web development. I love building things that are both functional and beautiful.
@@ -12,15 +12,16 @@ I hold an MSc in Mechatronics with a focus on control systems. My dissertation e
 ## Skills and Technologies
 
 - Programming Languages: C++, JavaScript, HTML, CSS
-- Frameworks: Bootstrap
+- Frameworks: Bootstrap,jQuery
 - Tools: Git, VS Code
 
 - ## Education
 
 - **HyperionDev** | Fullstack Web Dev Bootcamp | *(March 2024 - Present)*
+- **Vephla Software Institute** | Fontend Engineering | *(January 2024 - Present)*
 - **Althaus Digital** | IT Solution Bootcamp | *(January 2024 – March 2024)*
-- Master of Science in Mechatronics | **De Montfort Univerity Leicesty** | *(Oct 2022 - Nov 2023)*
-- HND Civil Engineering | **The Federal Polytechnic Ado-Ekiti** | *(Nov 2014 - Nov 2019)*
+- **De Montfort Univerity Leicesty** | Master of Science in Mechatronics | *(Oct 2022 - Nov 2023)*
+- **The Federal Polytechnic Ado-Ekiti** |  HND Civil Engineering | *(Nov 2014 - Nov 2019)*
 
 
 ## Certifications
