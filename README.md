@@ -1,54 +1,69 @@
-# Welcome to Damilola's GitHub Page!
+# 👨‍💻 **Hi, I'm Damilola Emmanuel**  
+*Dynamic Full-Stack Developer | Problem-Solver | Lifelong Learner*
 
-<!--![Profile Image](personal.jpeg)-->
-<!--<img src="personal.jpeg" alt="Profile Image" width="200" height="200">-->
+---
 
+## 🧑‍💻 **About Me**  
+Hello! I'm a passionate **full-stack software developer** who loves building secure, scalable, and user-friendly applications. My journey into tech has been fueled by my love for solving complex problems and a commitment to lifelong learning.  
 
-Hey there! 👋 I'm Adebowale Damilola Emmanuel, a passionate web developer 👨‍💻. Welcome to my GitHub profile!
+With expertise in both **front-end** and **back-end development**, I've worked on diverse projects, from creating responsive web designs to implementing robust APIs. I thrive in **cross-functional teams**, delivering results through collaboration and innovative thinking.  
 
-## About Me
-I hold an MSc in Mechatronics with a focus on control systems. My dissertation explored the speed control of a DC motor using fuzzy logic and PID controllers. After completing my master's degree, I decided to pursue my interest in web development. I love building things that are both functional and beautiful.
+When I’m not coding, you’ll probably find me exploring new tech stacks, watching **sci-fi and robotics movies**, or playing **FIFA on my PS5**. 🎮👾
 
-## Skills and Technologies
+---
 
-- Programming Languages: C++, JavaScript, HTML, CSS
-- Frameworks: Bootstrap,jQuery
-- Tools: Git, VS Code
+## ⚙️ **Tech Stack**  
+- **Languages & Frameworks:** JavaScript, React, Node.js, Express, Fastify, HTML, CSS, C++, MongoDB, PostgreSQL  
+- **Design & Tools:** Tailwind CSS, Bootstrap, Prisma ORM, Bubble.io  
+- **Soft Skills:** Collaboration, Problem-Solving, Time Management, and Communication  
 
-- ## Education
+---
 
-- **HyperionDev** | Fullstack Web Dev Bootcamp | *(March 2024 - Present)*
-- **Vephla Software Institute** | Fontend Engineering | *(January 2024 - Present)*
-- **Althaus Digital** | IT Solution Bootcamp | *(January 2024 – March 2024)*
-- **De Montfort Univerity Leicesty** | Master of Science in Mechatronics | *(Oct 2022 - Nov 2023)*
-- **The Federal Polytechnic Ado-Ekiti** |  HND Civil Engineering | *(Nov 2014 - Nov 2019)*
+## 🚀 **What I’ve Been Up To**  
 
+### 💼 **Software Developer Intern** – *Anima People* (July 2024 - Present)  
+Contributing to **PsycSec**, a psychometric testing platform aimed at improving workplace security by evaluating employee behaviors.  
+- Built the MVP with **Bubble.io** to attract investors.  
+- Developed scalable backend APIs with **Node.js** and **PostgreSQL**, using **Prisma ORM** for data management.  
+- Enhanced platform security with **JWT** and **RBAC**.  
+- Collaborated in **bi-weekly sprints**, driving team success in achieving project milestones.  
 
-## Certifications
+---
 
-- Become a C++ Master | Programiz | August 2023
-- Certified SOLIDWORKS Associate (CSWA) in Mechanical Design by Dassault Systèmes | June 2023
-- Google Project Management | Google on Coursera | September 2023
+### 🌟 **Side Projects**  
 
+#### 🖥️ **Portfolio Website**  
+A sleek showcase of my work and skills, crafted using **HTML, CSS, JavaScript, Node.js**, and **Express.js**.  
+🔗 [Check it out here!](https://codewithdami.vercel.app/)  
 
-## Get in Touch
+#### 🎮 **Rock-Paper-Scissors Game**  
+An interactive game built with **React** and **Tailwind CSS**, featuring score tracking and intuitive UI.  
+🔗 [Play the game here!](https://rock-paper-scissors-two-bice.vercel.app/)  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adebowaleemmanuel) and [Twitter](https://twitter.com/damilordz). Let's collaborate and build amazing things together!
+#### 📝 **Blog Application (Full-Stack)**  
+A feature-rich blog platform built with **React, Node.js, Express, MongoDB**, and **Mongoose**.  
+🔗 [Explore the project here!](https://blog-app-frontend-ashen.vercel.app/)  
 
-Happy coding! 😊
+---
 
+## 🎓 **Education & Certifications**  
+- **MSc Mechatronics** – *De Montfort University Leicester* (*Distinction*)  
+- **Full Stack Web Development Bootcamp** – *HyperionDev* (*100% Completion*)
+- **HND Civil Engineering** – *Federa Polytechnic Ado Ekiti* (*Upper Credit*)  
+- **Career Essentials in Software Development** – *Microsoft & LinkedIn*  
+- **Google Project Management Certificate** – *Coursera*  
 
-<!--
-**Damilordz/Damilordz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💬 **Let’s Connect!**  
+I’d love to hear from you—whether it’s a question, collaboration opportunity, or just to say hi!  
+- 🌐 [Portfolio](https://codewithdami.vercel.app)  
+- 📧 [Email Me](mailto:adebowaledami97@gmail.comcod)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adebowaleemmanuel)  
+- 🐦 [Twitter](https://twitter.com/damilordz) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*“Continuous improvement is better than delayed perfection.”*  
+Let’s create something amazing together! 🚀  
+
